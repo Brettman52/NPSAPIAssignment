@@ -60,7 +60,7 @@ function displayResults(responseJson) {
 
     $("#results").removeClass("hidden");
 
-    console.log(responseJson);
+    //console.log(responseJson);
 
 
 
